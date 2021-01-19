@@ -1,0 +1,10 @@
+#img-bg
+{
+  background-image: url('https://www.bit.pt/wp-content/uploads/2013/11/b79ec2d9bfd8ea317614f23d34ff2db5-e1385657892880.jpg');
+
+  min-height: 625px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

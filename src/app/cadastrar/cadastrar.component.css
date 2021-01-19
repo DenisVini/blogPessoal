@@ -1,0 +1,10 @@
+#img-bg
+{
+  background-image: url('https://cache.techmahindra.com/static/img/hi-tech-enterprise-smart-assistant.jpg');
+
+  min-height: 625px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
